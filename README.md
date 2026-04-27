@@ -91,6 +91,3 @@ I built this because I kept doing the same synthesis work manually after every r
 
 Works best with 5+ interviews. With fewer than 3 the synthesis is less interesting since patterns don't have enough signal to surface.
 
----
-
-authored by asif
